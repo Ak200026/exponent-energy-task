@@ -1,4 +1,3 @@
-// src/game.ts
 export type Cell = number | null;
 export type Board = Cell[][];
 

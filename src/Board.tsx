@@ -1,4 +1,3 @@
-// src/Board.tsx
 import React from 'react';
 import type { Board as BoardType, Cell } from './game';
 
