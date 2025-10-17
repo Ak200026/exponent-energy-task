@@ -6,7 +6,9 @@
 
 ## 🚀 Live Demo
 
-[View Live Game]: https://exponent-energy-task.vercel.app/
+[View Live Game]:
+
+https://exponent-energy-task.vercel.app/
 
 ---
 
@@ -37,4 +39,5 @@ npm install
 
 # Run development server
 npm run dev
+
 
